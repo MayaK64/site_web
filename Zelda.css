@@ -2,6 +2,7 @@
 
 h1 
 {
+color:white
 text-align: center;
 font-family:Verdana;
 }
@@ -9,6 +10,7 @@ font-family:Verdana;
 p 
 {
 font-family:Verdana;
+color: white;
 line-height: 1.6;
 padding:20px;
 }
