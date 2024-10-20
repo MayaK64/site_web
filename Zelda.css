@@ -1,8 +1,4 @@
 <!DOCTYPE html>
-<html>
-<head>
-</head>
-<body> {
 h1
 {
 color: yellow;
@@ -11,6 +7,3 @@ font-family:Verdana
 background-image: Zelda/background.webp
 <link href="maFeuilledeStyle.css" rel="stylesheet" type="text/css" media="all" />
 </style>
-
-</body>
-</html>
