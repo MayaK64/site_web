@@ -3,7 +3,6 @@
 h1 
 {
 text-align: center;
-background-color: green;
 font-family:Verdana;
 }
 
@@ -23,7 +22,7 @@ background-image: Zelda/background.webp;
 
 img 
 {
-max-witdh: 100%;
+max-witdh: 50%;
 height: auto
 border-radius: 5px;
 }
