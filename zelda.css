@@ -1,18 +1,23 @@
-*{
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN">
+<html>
+<head>
+ *{
   margin: 0;
   padding: 0;
   box-sizing:border-box;
 }
 
-body {
+ body {
   font-family: 'HYLIA SERIF' sans-serif
   color: #333
   line-height: 1.6;
   padding: 20px;
 }
 
-h1, h2, h3 {
+ h1, h2, h3 {
   color: #2c3e50
   margin-bottom: 20px;
   font-weight: bold;
 }
+</head>
+</body>
