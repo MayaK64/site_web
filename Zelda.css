@@ -22,7 +22,7 @@ background-image: Zelda/background.webp;
 
 img 
 {
-max-witdh: 50%;
-height: 50px;
+max-witdh: 100%;
+height: auto;
 border-radius: 5px;
 }
