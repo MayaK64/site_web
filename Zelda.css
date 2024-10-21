@@ -1,19 +1,19 @@
 <!DOCTYPE html>
 @font-face
 {
-font-family: "Hylia Serif";
+font-family: "hylia-serif";
 src: url('font/hylia-serif.zip') format('truetype');}
 
 h1 
 {
 color:#C9B25F;
 text-align: center;
-font-family:"Hylia Serif", sans-serif;
+font-family:"hylia-serif", sans-serif;
 font-size:50px;}
 
 p 
 {
-font-family:"hylia Serif", sans-serif;
+font-family:"hylia-serif", sans-serif;
 color:#40B2F;
 line-height: 1.6;
 font-size:25px;}
