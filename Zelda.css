@@ -6,7 +6,7 @@ src: url('the_wild_breath_of_zelda.zip') format('truetype');}
 
 h1 
 {
-color:gold;
+color:#C9B25F;
 text-align: center;
 font-family:"the_wild_breath_of_Zelda";
 font-sie:25px;
@@ -15,7 +15,7 @@ letter-spacing: 2px;}
 p 
 {
 font-family:"the_wild_breath_of_Zelda";
-color: gold;
+color:#C9B25F;
 line-height: 1.6;
 font-size:19px;}
 
