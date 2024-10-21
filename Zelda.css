@@ -1,21 +1,20 @@
 <!DOCTYPE html>
 @font-face
 {
-font-family: "hylia-serif";
-src: url('font/hylia-serif.zip.zip') format('truetype');}
+font-family: "Hylia Serif";
+src: url('font/hylia-serif.zip') format('truetype');}
 
 h1 
 {
 color:#C9B25F;
 text-align: center;
-font-family:"hylia-serif", sans-serif;
-font-sie:50px;
-letter-spacing: 2px;}
+font-family:"Hylia Serif", sans-serif;
+font-size:50px;}
 
 p 
 {
-font-family:"hylia-serif", sans-serif;
-color:#F5FAFF;
+font-family:"hylia Serif", sans-serif;
+color:#2B8091;
 line-height: 1.6;
 font-size:19px;}
 
