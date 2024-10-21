@@ -1,16 +1,20 @@
 <!DOCTYPE html>
+@font-face
+{
+font-family: "the wild breath of Zelda";
+src: url('the_wild_breath_of_zelda.zip') format('truetype');}
 
 h1 
 {
 color:gold;
 text-align: center;
-font-family:Verdana;
+font-family:the wild breath of Zelda;
 font-sie:25px;
 letter-spacing: 2px;}
 
 p 
 {
-font-family:Verdana;
+font-family:the wild breath of Zelda;
 color: gold;
 line-height: 1.6;
 font-size:19px;}
