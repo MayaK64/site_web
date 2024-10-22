@@ -26,12 +26,13 @@ img {
   margin: auto;
 }
 
-li {
-  float: left;
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width: 60px;
 }
 
-a {
+li a {
   display: block;
-  padding: 8px;
-  background-color: #dddddd;
 }
