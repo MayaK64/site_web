@@ -1,23 +1,28 @@
 <!DOCTYPE html>
-@font-face
-{
-font-family: "hylia-serif";
-src: url('font/hylia-serif.zip') format('truetype');}
 
-.page1 {
-  background-image: url('Zelda/background.jpg');}
 
-.page2 {
-  background-image: url('Zelda/oot_background.jpg');}
-
- body, html {
-height: 100%;
-margin: 0;}
+body {
+margin: 0; /* Supprime les marges par défaut */
+height: 100vh;}
      
 .page {
 background-size: cover;
 background-position: center;
 height: 100%;}
+
+.page1 {
+  background-image: url('Zelda/background.jpg');
+  background-size: cover; 
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.page2 {
+ background-image: url('Zelda/oot_background.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
 
 h1 
 {
