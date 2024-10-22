@@ -14,10 +14,10 @@ font-size:50px;}
 p 
 {
 font-family:Verdana, sans-serif;
-color:white;
+color:#18171C;
 line-height: 1.6;
 font-size:20px;
--webkit-text-stroke: 1px #BBB477;
+-webkit-text-stroke: 1px white;
 font-weight: bold;}
 
 img {
