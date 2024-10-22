@@ -4,6 +4,18 @@
 font-family: "hylia-serif";
 src: url('font/hylia-serif.zip') format('truetype');}
 
+.page1 {
+  background-image: url('Zelda/background.jpg');}
+
+.page2 {
+  background-image: url('Zelda/oot_background.jpg');}
+
+
+.page {
+background-size: cover;
+background-position: center;
+height: 100%;}
+
 h1 
 {
 color:#C9B25F;
