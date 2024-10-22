@@ -24,6 +24,13 @@ height: 100%;}
   background-repeat: no-repeat;
 }
 
+.page3 {
+ background-image: url('Zelda/majora_illu.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
 h1 
 {
 color:#C9B25F;
@@ -33,11 +40,11 @@ font-size:50px;}
 
 p 
 {
-font-family:Impact,sans-serif;
-color:#18171C;
+font-family:Verdana,sans-serif;
+color:white;
 line-height: 1.6;
 font-size:20px;
--webkit-text-stroke: 0.3px white;
+-webkit-text-stroke: 0.3px #18171C;
 font-weight: bold;}
 
 img {
