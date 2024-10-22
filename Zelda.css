@@ -10,7 +10,10 @@ src: url('font/hylia-serif.zip') format('truetype');}
 .page2 {
   background-image: url('Zelda/oot_background.jpg');}
 
-
+ body, html {
+height: 100%;
+margin: 0;}
+     
 .page {
 background-size: cover;
 background-position: center;
