@@ -51,9 +51,7 @@ p
 font-family:Verdana,sans-serif;
 color:white;
 line-height: 1.6;
-font-size:20px;
--webkit-text-stroke: 0.6px #18171C;
-}
+font-size:20px;}
 
 img {
   display: block;
