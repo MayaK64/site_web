@@ -25,3 +25,13 @@ img {
   width: 30%;
   margin: auto;
 }
+
+li {
+  float: left;
+}
+
+a {
+  display: block;
+  padding: 8px;
+  background-color: #dddddd;
+}
