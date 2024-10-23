@@ -7,7 +7,10 @@ height: 100vh;}
 
 @font-face {
     font-family: 'Hylia Serif';
-    src: url('font/HyliaSerifBeta-Regular.otf') format('opentype');
+    src: url('font/HyliaSerifBeta-Regular.otf') format('opentype'),
+         url('font/HyliaSerifBeta-Regular.woff2') format('woff2'),
+         url('font/HyliaSerifBeta-Regular.woff') format('woff'),
+         url('font/HyliaSerifBeta-Regular.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;}
 
