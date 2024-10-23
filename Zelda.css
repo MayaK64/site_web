@@ -1,5 +1,12 @@
 <!DOCTYPE html>
 
+@font-face {
+	font-family: 'hylia-serif';
+	font-weight: 400;
+	src: url('font/hylia-serif.woff2') format('woff2'),
+         url('font/hylia.woff') format('woff'),
+         url('font/hylia.ttf') format('truetype');
+}
 
 body {
 margin: 0; /* Supprime les marges par défaut */
@@ -35,20 +42,20 @@ h1
 {
 color:#C9B25F;
 text-align: center;
-font-family:Verdana, sans-serif;
+font-family:hylia-serif, sans-serif;
 font-size:50px;}
 
 h2
 {
 color:#DDD694;
 text-align: center;
-font-family:Verdana, sans-serif;
+font-family:hylia-serif, sans-serif;
 font-size:35px;
 -webkit-text-stroke: 0.5px #18171C;}
 
 p 
 {
-font-family:Verdana,sans-serif;
+font-family:hylia-serif,sans-serif;
 color:white;
 line-height: 1.6;
 font-size:20px;}
