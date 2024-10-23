@@ -24,14 +24,14 @@ background-position: center;
 height: 100%;}
 
 .page1 {
-  background-image: url('Zelda/background.jpg');
+  background-image: url('Zelda/botw_image.jpg');
   background-size: cover; 
   background-position: center;
   background-repeat: no-repeat;
 }
 
 .page2 {
- background-image: url('Zelda/oot_background.jpg');
+ background-image: url('Zelda/oot_illu.jpg');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -50,6 +50,15 @@ height: 100%;}
   background-position: center;
   background-repeat: no-repeat;
 }
+
+.page5 {
+  background-image: url('Zelda/totk_background.jpg');
+  background-size: cover; 
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+
 h1 
 {
 color:#C9B25F;
