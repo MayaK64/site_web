@@ -92,7 +92,7 @@ p
 {
 font-family:'Hylia Serif', sans-serif;
 color:white;
--webkit-text-stroke: 0.5px #B0AEA2;
+-webkit-text-stroke: 0.5px gray;
 line-height: 1.6;
 font-size:25px;}
 
