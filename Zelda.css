@@ -62,9 +62,10 @@ font-size:35px;
 p 
 {
 font-family:'Hylia Serif', sans-serif;
-color:white;
+color:DED8A5;
+-webkit-text-stroke: 0.5px white;
 line-height: 1.6;
-font-size:20px;}
+font-size:25px;}
 
 img {
   display: block;
