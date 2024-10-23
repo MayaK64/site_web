@@ -3,9 +3,9 @@
 @font-face {
 	font-family: 'hylia-serif';
 	font-weight: 400;
-	src: url('font/hylia-serif.woff2') format('woff2'),
-         url('font/hylia.woff') format('woff'),
-         url('font/hylia.ttf') format('truetype');
+	src: url('font/HyliaSerifBeta-Regular.woff2') format('woff2'),
+         url('font/HyliaSerifBeta-Regular.woff') format('woff'),
+         url('font/HyliaSerifBeta-Regular.ttf') format('truetype');
 }
 
 body {
