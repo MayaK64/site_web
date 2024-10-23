@@ -81,6 +81,13 @@ font-family:'Hylia Serif', sans-serif;
 -webkit-text-stroke: 0.1px black;
 font-size:35px;}
 
+h3
+{
+color:gold;
+text-align: center;
+font-family:'Hylia Serif', sans-serif;
+font-size:28px;}
+
 p 
 {
 font-family:'Hylia Serif', sans-serif;
