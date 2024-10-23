@@ -1,5 +1,10 @@
 <!DOCTYPE html>
 
+body {
+margin: 0; /* Supprime les marges par défaut */
+height: 100vh;}
+
+
 @font-face {
 	font-family: 'hylia-serif';
 	font-weight: 400;
@@ -8,10 +13,7 @@
          url('font/HyliaSerifBeta-Regular.ttf') format('truetype');
 }
 
-body {
-margin: 0; /* Supprime les marges par défaut */
-height: 100vh;}
-     
+
 .page {
 background-size: cover;
 background-position: center;
