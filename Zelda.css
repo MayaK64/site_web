@@ -6,12 +6,10 @@ height: 100vh;}
 
 
 @font-face {
-	font-family: 'hylia-serif';
-	font-weight: 400;
-	src: url('font/HyliaSerifBeta-Regular.woff2') format('woff2'),
-         url('font/HyliaSerifBeta-Regular.woff') format('woff'),
-         url('font/HyliaSerifBeta-Regular.ttf') format('truetype');
-}
+    font-family: 'Hylia Serif';
+    src: url('font/HyliaSerifBeta-Regular.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;}
 
 
 .page {
@@ -44,20 +42,20 @@ h1
 {
 color:#C9B25F;
 text-align: center;
-font-family:hylia-serif, sans-serif;
+font-family:'Hylia Serif', sans-serif;
 font-size:50px;}
 
 h2
 {
 color:#DDD694;
 text-align: center;
-font-family:hylia-serif, sans-serif;
+font-family:'Hylia Serif', sans-serif;
 font-size:35px;
 -webkit-text-stroke: 0.5px #18171C;}
 
 p 
 {
-font-family:hylia-serif,sans-serif;
+font-family:'Hylia Serif', sans-serif;
 color:white;
 line-height: 1.6;
 font-size:20px;}
