@@ -11,6 +11,9 @@ height: 100vh;}
     font-weight: normal;
     font-style: normal;}
 
+body {
+    font-family: 'Hylia Serif', sans-serif;
+}
 
 .page {
 background-size: cover;
