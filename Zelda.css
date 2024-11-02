@@ -65,6 +65,14 @@ height: 100%;}
   background-repeat: no-repeat;
 }
 
+.page7 {
+  background-image: url('Zelda/aaa.jpg');
+  background-size: cover; 
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+
 h1 
 {
 color:#C9B25F;
